@@ -1,5 +1,5 @@
 # GxEpic.lv2
-Cabinet simulation LV2 plugin
+Simulation of a class A electric guitar valve amplifier 
 
 
 ![GxEpic](https://raw.githubusercontent.com/brummer10/GxEpic.lv2/master/GxEpic.png)
